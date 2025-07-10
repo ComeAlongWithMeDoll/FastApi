@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+redis>=4.2.0
+python-dotenv
+aioredis
+sqlmodel
+asyncpg
